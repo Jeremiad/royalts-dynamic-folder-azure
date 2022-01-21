@@ -1,6 +1,4 @@
-import json, subprocess, sys, logging
-from multiprocessing import connection
-from queue import Empty
+import json, subprocess
 
 def get_instances(resourcegroup = "", gateway = ""):
     cmd = ""
