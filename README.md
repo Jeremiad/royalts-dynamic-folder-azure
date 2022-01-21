@@ -1,0 +1,1 @@
+# royalts-dynamic-folder-azure
